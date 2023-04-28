@@ -1,0 +1,32 @@
+.header {
+    height: 80px;
+    background-color: #1C2B35;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+
+
+}
+
+.header a {
+    margin: 32px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.005em;
+
+    color: #FFFFFF;
+    text-decoration: none;
+
+}
+
+.header a:hover {
+    /* background-color: orange;
+    border-radius: 5px;
+    padding: 2px; */
+    color: orangered;
+}

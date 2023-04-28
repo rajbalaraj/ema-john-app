@@ -1,0 +1,22 @@
+.cart-container {
+    background: rgba(255, 153, 0, 0.3);
+
+
+
+}
+
+.cart-container h3 {
+    text-align: center;
+}
+
+.cart-info {
+    margin-left: 20px;
+
+}
+
+.cart {
+
+    position: sticky;
+    top: 0;
+    padding-top: 50px;
+}
